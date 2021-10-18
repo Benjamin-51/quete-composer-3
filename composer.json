@@ -1,0 +1,18 @@
+{
+    "name": "benjamin/vache",
+    "description": "For the cowsay quest",
+    "require": {
+        "gipetto/cowsay": "^1.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Benjamin\\Vache\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Benjamin-51",
+            "email": "babilliot.benjamin@gmail.com"
+        }
+    ]
+}
